@@ -1,0 +1,144 @@
+body {
+    background: #232526;
+    background: -webkit-linear-gradient(to right, #414345, #232526);
+    background: linear-gradient(to right, #414345, #232526);
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.margin-top {
+    text-align: center;
+}
+
+.name-first {
+    font-weight: bolder;
+    color: #fdf5e6;
+}
+
+.name-second {
+    font-weight: bolder;
+    color: #ffcc66;
+}
+
+.name-third {
+    font-weight: bolder;
+    color: #fdf5e6;
+}
+
+.position {
+    font-weight: bolder;
+    color: #fdf5e6;
+    font-size: 11px;
+    text-align: center;
+}
+
+.a {
+    font-size: large;
+}
+
+.border {
+    border: 3px solid #ccc !important;
+    display: flex;
+    width: 20%;
+    height: 20%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-weight: bolder;
+    transition: 0.2s;
+    border-radius: 10px;
+}
+
+.border:hover {
+    border: 3px solid #ffcc66 !important;
+}
+
+
+
+.link-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.link-container a {
+    width: 100%;
+    color: #fff !important;
+    transition: 0.2s;
+}
+
+.link-container a:hover {
+    opacity: 1;
+}
+
+.name {
+    margin-top: 15px !important;
+}
+
+.name span {
+    font-size: 14px;
+}
+
+.name span {
+    font-size: 26px;
+}
+
+.position {
+    font-size: 18px;
+}
+
+.image {
+    background-image: url("image/image-round.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: 5px solid #fdf5e6;
+}
+
+.contact-info {
+    font-weight: bolder;
+    color: #fdf5e6;
+    text-align: center;
+}
+
+.contact .info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.contact .info span {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.contact-map .map {
+    padding: w3;
+    margin: w3;
+    font-weight: bolder;
+    color: #fdf5e6;
+}
+
+.contact-map {
+    width: 100%;
+    height: 250;
+    border: 0;
+    
+}
