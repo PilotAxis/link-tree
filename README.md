@@ -8,7 +8,7 @@ A simple, beautiful link-tree site created to showcase user's information and so
 
 - **HTML**
 - **CSS**
-- **JavaScript
+- **JavaScript**
 
 ## Getting Started
 
