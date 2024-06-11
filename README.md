@@ -19,7 +19,7 @@ To run this project locally, follow these simple steps:
 Ensure you have the following software installed on your local machine:
 
 - [Visual Studio Code](https://code.visualstudio.com)
-- [Any Web Browser (Recommended Chrome)]
+- Any Web Browser (Recommended **Chrome**)
 - [Live Server (VsCode extension)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ### Installation
