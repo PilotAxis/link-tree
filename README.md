@@ -79,11 +79,11 @@ link-tree
 │   ├── whatsapp.png
 ├── .hintrc
 ├── index.html
+├── LICENSE.md
 ├── links.js
 ├── README.md
 ├── script.js
-├── style.css
-└── LICENSE.md
+└── style.css
 ```
 
 ## License
