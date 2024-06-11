@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d3c26283-921c-4236-9148-a864b1209676/deploy-status)](https://app.netlify.com/sites/link-tree-pilotaxis/deploys)
+
 # Link Tree
 
 A simple, beautiful link-tree site created to showcase user's information and social profiles.
