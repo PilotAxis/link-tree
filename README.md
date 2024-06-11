@@ -2,7 +2,7 @@
 
 A simple, beautiful link-tree site created to showcase user's information and social profiles.
 
-![Screenshot of Website](https://github.com/PilotAxis/link-tree/image/image.png)
+![Screenshot of Website](https://github.com/PilotAxis/link-tree/blob/main/image/image.png)
 
 ## Tech Stack
 
@@ -48,7 +48,7 @@ code .
 
 Once all the project is set-up in the Visual Studio Code, start the live server:
 
-![Screenshot of Live Server](https://github.com/PilotAxis/link-tree/image/image_1.png)
+![Screenshot of Live Server](https://github.com/PilotAxis/link-tree/blob/main/image/image_2.png)
 
 Now you're ready to see the Link Tree locally running on your machine!
 
